@@ -1,4 +1,3 @@
-# PersonalWebpage-StarterKit
-Starter kit for the personal website workshop sponsored by ADC.
-asd
-# danXyu.github.io
+# Personal Webpage 
+HTML/CSS/js code for personal webpage 
+
